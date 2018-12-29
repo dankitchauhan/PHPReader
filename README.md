@@ -1,5 +1,5 @@
 # PHPReader
-This package will parse Php array files or language file's used for localization purpose.
+This package will parse Php array files or language file's used in php for localization purpose.
 
 # Quick Installation
 ```sh
