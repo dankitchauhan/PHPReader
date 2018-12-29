@@ -1,0 +1,19 @@
+{
+    "name": "ambika/php-reader",
+    "description": "This package is used to parse php array files in php.",
+    "require": {
+        "php": ">=5.0"
+    },
+    "authors": [
+        {
+            "name": "Ankit Chauhan",
+            "email": "ankitchauhan246@gmail.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "Ambika\\PhpParser\\": "src/"
+        }
+    }
+}
