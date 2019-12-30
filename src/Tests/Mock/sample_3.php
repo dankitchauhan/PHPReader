@@ -1,4 +1,5 @@
-<?php 
+<?php
+
 /**
  * Lorem Ipssum
  *
@@ -27,18 +28,18 @@
 //------------------------------------------------------------------------------
 // ! GENERAL SETTINGS
 //------------------------------------------------------------------------------
-$lang['foo']			= 'Lorem ipsum dolar input';
-$lang['foo1']			= 'Lorem ipsum dolar input';
-$lang['foo2']		= 'Lorem ipsum dolar input.';
-$lang['foo3']			= 'Lorem ipsum dolar input';
-$lang['foo4']				= 'Lorem ipsum dolar input';
-$lang['foo5']				= 'Lorem ipsum dolar input';
-$lang['foo6']			= 'Lorem ipsum dolar input <em>lorem</em> Lorem ipsum dolar input:';
-$lang['foo7']		= 'Lorem ipsum dolar input';
-$lang['foo8']				= 'Lorem ipsum dolar input';
-$lang['foo9']	= 'Lorem ipsum dolar input';
-$lang['foo10']			= 'Lorem ipsum dolar input';
-$lang['foo11']			= 'Lorem ipsum dolar input';
-$lang['foo12']		= 'Lorem ipsum dolar input.';
+$lang['foo']            = 'Lorem ipsum dolar input';
+$lang['foo1']            = 'Lorem ipsum dolar input';
+$lang['foo2']        = 'Lorem ipsum dolar input.';
+$lang['foo3']            = 'Lorem ipsum dolar input';
+$lang['foo4']                = 'Lorem ipsum dolar input';
+$lang['foo5']                = 'Lorem ipsum dolar input';
+$lang['foo6']            = 'Lorem ipsum dolar input <em>lorem</em> Lorem ipsum dolar input:';
+$lang['foo7']        = 'Lorem ipsum dolar input';
+$lang['foo8']                = 'Lorem ipsum dolar input';
+$lang['foo9']    = 'Lorem ipsum dolar input';
+$lang['foo10']            = 'Lorem ipsum dolar input';
+$lang['foo11']            = 'Lorem ipsum dolar input';
+$lang['foo12']        = 'Lorem ipsum dolar input.';
 
 return $lang;

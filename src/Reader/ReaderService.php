@@ -38,6 +38,4 @@ abstract class ReaderService
 	 * @return array 
 	 */
 	abstract protected function loadContent($content);
-	
-
 }

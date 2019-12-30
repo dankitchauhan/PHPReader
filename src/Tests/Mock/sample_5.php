@@ -1,3 +1,4 @@
 <?php
 
-print("Lorem ipsum dolar input"); exit;
+print("Lorem ipsum dolar input");
+exit;
